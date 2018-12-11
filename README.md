@@ -71,7 +71,7 @@ conda env create -f environment.yml
 Once the packages installed, you can activate the environment:
 
 ``` bash
-conda activate tutorial-visualization
+conda activate datascience
 ```
 
 You will be able to use Jupyter Lab or Notebook by executing either:
@@ -85,10 +85,3 @@ or
 ``` bash
 jupyter lab
 ```
-
-References
-----------
-
-* The Python tutorial `00_python` is inspired by the [SciPy lecture notes](https://www.scipy-lectures.org/intro/language/python_language.html).
-* The NumPy introduction `01_numpy` was originally presented in the [Python workshop by the CDS](https://github.com/paris-saclay-cds/python-workshop/tree/master/Day_1_Scientific_Python) by Bartosz Telenczuk.
-* The Pandas introduction `02_pandas` was originally presented in the [Python workshop by the CDS](https://github.com/paris-saclay-cds/python-workshop/tree/master/Day_1_Scientific_Python) by Joris Van den Bossche.
